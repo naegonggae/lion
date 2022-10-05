@@ -1,7 +1,7 @@
 public class Lion {
     public static void main(String[] args) {
 
-        System.out.println("Lion2");
+        System.out.println("Lion22");
     }
 }
 
