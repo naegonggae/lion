@@ -19,7 +19,7 @@ public class Calculator {
     public int multiple() {
         return a*b;
     }
-    public int divide() {
+    public double divide() {
         return a/b;
     }
 }
